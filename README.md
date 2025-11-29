@@ -19,16 +19,11 @@ This project is built using **HTML, CSS, and JavaScript**, making it a great beg
 - Game Over screen with score display  
 - Keyboard start + Button click play  
 
----
-
-## Live Demo  
-Demo: **https://Gajaradevi.github.io/colorbeat**
-Repository: **https://github.com/Gajaradevi/colorbeat**
 
 ---
 
 ## Project Structure
-colorbeat/
+Color-Beat-Game/
 │
 ├── index.html       # Main HTML file
 ├── style.css        # Game UI styling
