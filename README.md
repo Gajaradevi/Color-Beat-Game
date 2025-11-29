@@ -19,7 +19,7 @@ This project is built using **HTML, CSS, and JavaScript**, making it a great beg
 
 ---
 
-## 🖥️ Live Demo  
+## Live Demo  
 **https://Gajaradevi.github.io/colorbeat**
 
 ---
